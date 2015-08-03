@@ -1,0 +1,14 @@
+/*
+Theme Name: blog.gnyo.org
+Template: spacious
+*/
+
+@import url(../spacious/style.css);
+
+// この下に子テーマの CSS を記述
+
+.site-main .widget-area {
+	float: right;
+	width: 340px;
+}
+
